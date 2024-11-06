@@ -1,0 +1,3 @@
+This is a txt file created during the practicing git course in YP.
+
+Git is really useful tool and provides versatility and reliablity of the project.
